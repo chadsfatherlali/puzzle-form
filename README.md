@@ -11,7 +11,7 @@ Inlcuir el fichero en documento HTML.
 <script type="text/javascript" src="puzzleform.min.js"></script>
 ```
 
-Iniciamos el plugin con los parametros classe: [campos que debe obtener del formulario], insertar[el elemento html donde se va a insertar los elementos ordenados].
+Iniciamos el plugin con los parametros ***classe:*** [campos que debe obtener del formulario], ***insertar:*** [el elemento html donde se va a insertar los elementos ordenados].
 
 ```javascript
 puzzleForm.init({
