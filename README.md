@@ -20,6 +20,14 @@ puzzleForm.init({
 });
 ```
 
+```html
+<ul>
+  <input type="text" name="nombre" />
+  <input type="text" name="apellido" />
+  <input type="text" name="cargo" />
+</ul>
+```
+
 Llamamos a la funcion ***puzzle*** para que lo ordene con los parámetros ***orderby:*** [el atributo de donde va a obtener el orden], ***regex:*** [los elementos que van a ser ordenados].
 
 ```javascript
