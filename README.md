@@ -5,3 +5,6 @@ Puzzle Form: plugin jquery para ordenar los campo de un formulario definido por 
 
 MODO DE USO:
 ------------
+Inlcuir el fichero en documento HTML.
+
+<script type="text/javascript"></script>
