@@ -7,4 +7,6 @@ MODO DE USO:
 ------------
 Inlcuir el fichero en documento HTML.
 
+```html
 <script type="text/javascript"></script>
+```
