@@ -23,9 +23,9 @@ puzzleForm.init({
 ```html
 <!-- HTML ORIGINAL -->
 <ul id="#form-sorter">
-  <input data-particular="0" class=".campo-form" type="text" name="nombre" />
-  <input data-particular="2" class=".campo-form" type="text" name="apellido" />
-  <input data-particular="1" class=".campo-form" type="text" name="cargo" />
+  <input data-particular="0" class="campo-form" type="text" name="nombre" />
+  <input data-particular="2" class="campo-form" type="text" name="cargo" />
+  <input data-particular="1" class="campo-form" type="text" name="apellido" />
 </ul>
 ```
 
@@ -41,8 +41,8 @@ puzzleForm.puzzle({
 ```html
 <!-- HTML RESULTANTE -->
 <ul id="#form-sorter">
-  <input data-particular="0" class=".campo-form" type="text" name="nombre" />
-  <input data-particular="1" class=".campo-form" type="text" name="cargo" />
-  <input data-particular="2" class=".campo-form" type="text" name="apellido" />
+  <input data-particular="0" class="campo-form" type="text" name="nombre" />
+  <input data-particular="1" class="campo-form" type="text" name="apellido" />
+  <input data-particular="2" class="campo-form" type="text" name="cargo" />
 </ul>
 ```
